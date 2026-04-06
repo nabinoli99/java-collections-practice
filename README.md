@@ -12,9 +12,10 @@ This repository contains my practice and understanding of the Java Collections F
 - Core concepts
 - Problem-solving
 - Real-world usage
+- Basic theory
 
 ## Note
-Code is added based on learning progress and availability of time.
+Code is added based on learning progress and time availability.
 
 ---
 Consistency matters more than perfection.
