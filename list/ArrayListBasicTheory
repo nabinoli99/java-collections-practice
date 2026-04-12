@@ -1,9 +1,0 @@
-This program creates an ArrayList of integers, adds
-elements to it using the add() method,
-and stores them dynamically. Finally, it prints
-the elements in insertion order as [1, 3, 5, 7, 9, 11].
-
-Note: ArrayList cannot hold primitive types like int, double, or char directly. we must use their wrapper classes instead:
--Use Integer instead of int
--Use Double instead of double
--Use Character instead of char
