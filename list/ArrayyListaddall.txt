@@ -1,4 +1,0 @@
-The addAll() method in the ArrayList class is used to add
-all the elements from a specified collection into an ArrayList.
-This method is especially useful for combining collections or
-inserting multiple elements at once.
