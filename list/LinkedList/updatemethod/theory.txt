@@ -1,0 +1,37 @@
+With the help of the set() method, we can update an element
+in a LinkedList. This method takes an index and the updated element
+which needs to be inserted at that index.
+
+Syntax:
+public E set(int index, E element)
+
+Parameters:
+index – the index at which the element is to be inserted
+element – the element to be inserted
+
+Returns the element that was previously at the specified position in the list.
+
+Example:
+import java.util.LinkedList;
+
+public class updatelinkedlist {
+    public static void main(String[] args) {
+        LinkedList<String> list = new LinkedList<String>();
+
+        list.add("Apple");
+        list.add("Banana");
+        list.add("Cherry");
+        list.add("Date");
+        list.add("Fig");
+
+        System.out.println("Original list: " + list);
+
+        list.set(2, "Blueberry");
+
+        System.out.println("Updated list: " + list);
+    }
+}
+
+Output:
+Original list: [Apple, Banana, Cherry, Date, Fig]
+Updated list: [Apple, Banana, Blueberry, Date, Fig]
