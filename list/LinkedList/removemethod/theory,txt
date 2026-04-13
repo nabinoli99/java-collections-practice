@@ -1,0 +1,19 @@
+#Removes the first occurrence of the specified element from the list, if it exists. They are:
+ -remove(Object): Removes the first occurrence of the specified object from the LinkedList.
+ -remove(int index): Removes the element at the given index and shifts subsequent elements.
+ -removeFirst(): Removes the first element from the LinkedList.
+ -removeLast(): Removes the last element from the LinkedList.
+ -removeFirstOccurrence(Object o): Removes the first occurrence of the specified object from the LinkedList.
+ -removeLastOccurrence(Object o): Removes the last occurrence of the specified object from the LinkedList.
+ -clear(): Removes all the elements from the LinkedList.
+
+
+#Output of the code
+Employees before removing: [Sandip, Amrit, Diwash, Prakash, Aditya, Subash, Rishab, meghraj, jebish]
+Employees after removing: [Sandip, Amrit, Prakash, Aditya, Subash, Rishab, meghraj, jebish]
+Employees after removing: [Sandip, Amrit, Aditya, Subash, Rishab, meghraj, jebish]
+Employees after removing: [Amrit, Aditya, Subash, Rishab, meghraj, jebish]
+Employees after removing: [Amrit, Aditya, Subash, Rishab, meghraj]
+Employees after removing: [Aditya, Subash, Rishab, meghraj]
+Employees after removing: [Subash, Rishab, meghraj]
+Employees after removing: []
