@@ -10,6 +10,7 @@ public class VectorAddMethod {
         employee.add("Jebish");
         employee.add("Jagat");
         employee.add("Megharaj");
+git commit -m "feat: implement add method in vector"
         employee.add("Nabin");
         employee.add("Prakash");
 
