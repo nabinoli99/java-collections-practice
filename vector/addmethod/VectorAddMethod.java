@@ -10,7 +10,6 @@ public class VectorAddMethod {
         employee.add("Jebish");
         employee.add("Jagat");
         employee.add("Megharaj");
-        employee.add("Murli");
         employee.add("Nabin");
         employee.add("Prakash");
 
