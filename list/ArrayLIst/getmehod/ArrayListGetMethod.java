@@ -3,6 +3,7 @@ import java.util.ArrayList;
 public class ArrayListGetMethod {
     public static void main(String[] args) {
         ArrayList<String> users = new ArrayList<String>();
+
         users.add("Sandip");
         users.add("Nabkiran");
         users.add("Prakash");
